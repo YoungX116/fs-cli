@@ -1,5 +1,5 @@
 # fs-cli
-##### Author: Yang Xiao
+#### Author: Yang Xiao
 
 This project is an simple implementation of Linux/Unix `ls` command by mainly use node.js.
 
@@ -43,10 +43,10 @@ This project is an simple implementation of Linux/Unix `ls` command by mainly us
 
 * **Additional Flags**
 
-  `-l, --long`: with this option, the output will show files with name, size in bytes and last modified time and folders with name and     last modified time.\
+  `-l/--long`: with this option, the output will show files with name, size in bytes and last modified time and folders with name and       last modified time.\
   **For example:** run command `fs-cli ls --long` or `fs-cli ls -l` will output files and folders in detail mentioned above.
 
-  `-r, --recursive`: with this option, the output will show files and folders, including the contents of all sub folders and their         subfolders and so on.\
+  `-r/--recursive`: with this option, the output will show files and folders, including the contents of all sub folders and their           subfolders and so on.\
   **For example:** run command `fs-cli ls --recursive` or `fs-cli ls -r` will output files and folders and all contents in the folders
   and so on level by level.
 
