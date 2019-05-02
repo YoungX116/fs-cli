@@ -1,5 +1,5 @@
 # fs-cli
-#### Author: Yang Xiao
+#### Author: Yang
 
 This project is an simple implementation of Linux/Unix `ls` command by mainly use node.js.
 
