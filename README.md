@@ -1,7 +1,7 @@
 # fs-cli
 #### Author: Yang
 
-This project is an simple implementation of Linux/Unix `ls` command by mainly use node.js.
+This project is a simple implementation of Linux/Unix `ls` command by mainly use node.js.
 
 * **Important modules used**
   * **fs:** this module is used to analyze the folder and recognize files and folders.
