@@ -14,8 +14,8 @@ This project is a simple implementation of Linux/Unix `ls` command by mainly use
   1. clone or download this project.
   2. after unzip, open the command line and go to the working directory of this project.
   3. run `npm install` to install all the modules required.
-  4. run `npm link` to symbolic link the application so we can use the application globally in our system.\
-  **Note:** for step 4, when use macOS system, run `sudo npm link` instead may give the right result.
+  4. run `npm link` to symbolic link the application so we can use the application globally in our operating system.\
+  **Note:** for the last step, when use macOS system, run `sudo npm link` instead may give the right result.
 
 * **Usage**
 
