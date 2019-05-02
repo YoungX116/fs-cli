@@ -1,7 +1,7 @@
 # fs-cli
-### Author: Yang Xiao
+##### Author: Yang Xiao
 
-This project is an simple implementation of Linux/Unix `<ls>` command by mainly use node.js.
+This project is an simple implementation of Linux/Unix <span style="background-color:yellow">`ls`</span> command by mainly use node.js.
 Please note I developed this application in Windows system, so I cannot fully ensure that this application can work properly in macOS or other operation system. 
 
 Important modules used
