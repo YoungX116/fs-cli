@@ -2,6 +2,7 @@
 Author: Yang Xiao
 
 This project is an simple implementation of unix “ls” command by mainly use node.js.
+Please note I developed this application in Windows system, so I cannot fully ensure that this application can work properly in macOS or other operation system. 
 
 Important modules used
 fs: this module is used to analyze the folder and recognize files and folders.
