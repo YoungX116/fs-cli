@@ -34,7 +34,7 @@ This project is an simple implementation of Linux/Unix `ls` command by mainly us
   > `targetFolder` is an optional user input.
   > * If it is an absolute path like `G:/test`, run command `fs-cli list G:/test` in your command line will output all the files and
   folders inside `G:/test`.
-  > * If it is an relative path like `test`, run command `fs-cli list test` in your command line will output all the files and folders
+  > * If it is a relative path like `test`, run command `fs-cli list test` in your command line will output all the files and folders
   inside subfolder test relative to your current folder.
   > * If the path does not exist, output will be an error message telling you the path is invalid.
 
